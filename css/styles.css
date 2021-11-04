@@ -14,6 +14,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
+    background-color: var(--bg-color);
 }
 a{
     text-decoration: none;
@@ -56,7 +57,7 @@ li{
     width: 10em;
 }
 .nav-links{
-    grid-column: 5/13;    
+    grid-column: 6/13;    
 }
 .nav-items{
     align-items: center;
