@@ -1,0 +1,11 @@
+Fonts:
+Montserrat semi-bold
+
+Colors:
+#5654b3
+#fa676d
+#2d2c62
+
+background color:
+#e2effe
+
