@@ -48,7 +48,16 @@ em{
 .container-fluid{
     padding: 0 90px;
 }
-
+.icon{
+    display: inline-block;
+    background-color: var(--priamry);
+    color: #fff;
+    padding: 5px;
+    border-radius: 2px;
+}
+.icon:hover{
+    background-color: #4240b9;
+}
 /* font */
 
 /* desktop styling */
@@ -112,6 +121,12 @@ em{
     margin-left: -10px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+}
+.social-icons{
+    margin-top: 100px;
+}
+.social-icons a{
+    margin-right: 10px;
 }
 .hero-img{
     grid-column: 5/13;
