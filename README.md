@@ -3,3 +3,4 @@
 
 A cute landing page made for CREATE.CO, a fictional Social Media Marketing Agency.
 This landing page is made with HTML5 and CSS3. It takes advantage of the CSS3 grid system which arranges all the HTML elements.
+Design from freepik.com
